@@ -52,6 +52,50 @@ q.move(200);
 q.turn(90);	
 }
 
+q.moveTo(300, 350);
+for (int i = 0; i < 4; i++) {
+	q.setRandomPenColor();
+q.move(200);
+q.turn(90);	
+}
+
+q.moveTo(290, 340);
+for (int i = 0; i < 4; i++) {
+	q.setRandomPenColor();
+q.move(200);
+q.turn(90);	
+}
+
+q.moveTo(280, 330);
+for (int i = 0; i < 4; i++) {
+	q.setRandomPenColor();
+q.move(200);
+q.turn(90);	
+}
+
+q.moveTo(270, 320);
+for (int i = 0; i < 4; i++) {
+	q.setRandomPenColor();
+q.move(200);
+q.turn(90);	
+}
+
+q.moveTo(260, 310);
+for (int i = 0; i < 4; i++) {
+	q.setRandomPenColor();
+q.move(200);
+q.turn(90);	
+}
+
+q.moveTo(250, 300);
+for (int i = 0; i < 4; i++) {
+	q.setRandomPenColor();
+q.move(200);
+q.turn(90);	
+}
+
+
+
 
 
         // 6. Make the robot move as fast as possible
